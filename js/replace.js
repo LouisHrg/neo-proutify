@@ -140,7 +140,7 @@ const replace = [
   },
 */
 
-// Create arrya of regexps with all above elements
+// Create array of regexps with all above elements
 const rExps = []
 replace.forEach((element) => {
   rExps.push([new RegExp(element["name"]), element["replaceWith"]])
@@ -154,6 +154,7 @@ rExps.forEach(function (rExp) {
   document.title = document.title.replace(rExp[0], rExp[1]);
 });
 
+// Replace in body
 while (textNode = walk.nextNode()) {
   rExps.forEach(function (rExp) {
     textNode.nodeValue = textNode.nodeValue.replace(rExp[0], rExp[1]);
