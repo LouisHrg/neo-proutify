@@ -101,11 +101,11 @@ const replace = [
     "replaceWith": "Sébastien Leproutu"
   },
   {
-    "name": "ministres|Ministres",
-    "replaceWith": "Miniprouts"
+    "name": "ministre",
+    "replaceWith": "miniprout"
   },
   {
-    "name": "ministre|Ministre",
+    "name": "Ministre",
     "replaceWith": "Miniprout"
   },
   {
@@ -131,6 +131,10 @@ const replace = [
   {
     "name": "Éric Ciotti|Eric Ciotti",
     "replaceWith": "Éric Proutti"
+  },
+  {
+    "name": "Castaner",
+    "replaceWith": "Castaprout"
   },
 ];
 /* For copy/paste
