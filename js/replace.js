@@ -132,6 +132,10 @@ const replace = [
     "name": "Éric Ciotti|Eric Ciotti",
     "replaceWith": "Éric Proutti"
   },
+    {
+    "name": "protocole sanitaire",
+    "replaceWith": "proutocole sanitaire"
+  },
   {
     "name": "Castaner",
     "replaceWith": "Castaprout"
