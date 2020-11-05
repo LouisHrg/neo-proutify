@@ -65,6 +65,10 @@ const replace = [
     "replaceWith": "Proutivier Véran"
   },
   {
+    "name": "d'Olivier Véran",
+    "replaceWith": "de Proutivier Véran"
+  },
+  {
     "name": "Frédérique Vidal|Frederique Vidal",
     "replaceWith": "Frédérique Proutal"
   },
