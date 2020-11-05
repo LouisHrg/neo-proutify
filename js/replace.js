@@ -109,6 +109,18 @@ const replace = [
     "replaceWith": "Miniprout"
   },
   {
+    "name": "plan de relance",
+    "replaceWith": "prout de relance"
+  },
+  {
+    "name": "ce que l'on sait",
+    "replaceWith": "ce que l'on proute"
+  },
+  {
+    "name": "couac",
+    "replaceWith": "prout"
+  },
+  {
     "name": "Trump",
     "replaceWith": "Trumpet"
   },
