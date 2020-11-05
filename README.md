@@ -6,7 +6,7 @@ Adapté du super [Manu Auto Correct](https://github.com/Bo-Duke/Manu-Auto-Correc
 ## Firefox
 Télécharger l'extension directement depuis [le magasin Mozilla](https://addons.mozilla.org/fr/firefox/addon/proutify/) !
 
-(Si ce lien n'est pas disponible, installez l'extension à partir du fichier : [téléchargez le fichier `.xpi`](https://framagit.org/framasoft/fun/proutify/uploads/824355bdd3f52f5fd1fddf62175f7f0b/proutify-1.2-fx.xpi) et ouvrez-le avec votre navigateur Firefox.)
+(Si ce lien n'est pas disponible, installez l'extension à partir du fichier : [téléchargez le fichier `.xpi`](https://github.com/banality13/proutify/releases/download/v1.2/proutify-1.2-fx.xpi) et ouvrez-le avec votre navigateur Firefox.)
 
 ## Chrome / Chromium
 Chrome ne permet pas par défaut d'installer de module en dehors du Play Store. Si vous souhaitez absolument ajouter ce module, vous pouvez contourner celà en :
