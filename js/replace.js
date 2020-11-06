@@ -30,7 +30,7 @@ const replace = [
   },
   {
     "name": "Élisabeth Borne|Elisabeth Borne",
-    "replaceWith": "Élizabeth Prout"
+    "replaceWith": "Élisabeth Prout"
   },
   {
     "name": "Éric Dupond-Moretti",
