@@ -147,7 +147,7 @@ const replace = [
 // Create array of regexps with all above elements
 const rExps = []
 replace.forEach((element) => {
-  rExps.push([new RegExp(element["name"]), element["replaceWith"]])
+  rExps.push([new RegExp(element["name"], "g"), element["replaceWith"]])
 })
 
 var textNode;
