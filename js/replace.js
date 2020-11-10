@@ -113,7 +113,6 @@ const replace = [
     "replaceWith": "Miniprout"
   },
   {
-<<<<<<< js/replace.js
     "name": "député",
     "replaceWith": "déprouté"
   },
@@ -128,7 +127,7 @@ const replace = [
   {
     "name": "Sénateur",
     "replaceWith": "Sénaprout"
-  }
+  },
   {
     "name": "plan de relance",
     "replaceWith": "prout de relance"
