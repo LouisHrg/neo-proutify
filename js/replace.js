@@ -176,6 +176,10 @@ const replace = [
     "name": "Zemmour",
     "replaceWith": "Zeprout"
   },
+  {
+    "name": "Boris",
+    "replaceWith": "Beauprout"
+  },
 ];
 /* For copy/paste
   {
