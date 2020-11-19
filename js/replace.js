@@ -180,6 +180,51 @@ const replace = [
     "name": "Boris",
     "replaceWith": "Beauprout"
   },
+  /*** Institutions politiques ***/
+  {
+    "name": "Conseil d'Etat|Conseil d'État",
+    "replaceWith": "Conprout d'État" /* Peut-être orthographier Comprout ? */
+  },
+  {
+    "name": "Conseil constitutionnel",
+    "replaceWith": "Conprout constitutionnel"
+  },
+  {
+    "name": "Assemblée Nationale",
+    "replaceWith": "Assemprout Nationale"
+  },
+  {
+    "name": "Sénat",
+    "replaceWith": "Sénaprout"
+  },
+  {
+    "name": "Parlement",
+    "replaceWith": "Parleprout"
+  },
+  {
+    "name": "Gouvernement",
+    "replaceWith": "Gouverneprout"
+  },
+  {
+    "name": "secrétaire d'Etat|secrétaire d'État",
+    "replaceWith": "secréprout d'État"
+  },
+  {
+    "name": "Haut Conseil pour le climat",
+    "replaceWith": "Haut Conprout pour le climat"
+  },
+  {
+    "name": "Commission européenne",
+    "replaceWith": "Commiprout européenne"
+  },
+  {
+    "name": "la Cour suprême",
+    "replaceWith": "la Prout suprême"
+  },
+  {
+    "name": "la Cour des comptes",
+    "replaceWith": "la Prout des comptes"
+  },
 ];
 /* For copy/paste
   {
