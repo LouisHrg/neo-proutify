@@ -180,6 +180,18 @@ const replace = [
     "name": "Boris",
     "replaceWith": "Beauprout"
   },
+  {
+    "name": "Covid",
+    "replaceWith": "Coprout"
+  },
+  {
+    "name": "Coronavirus",
+    "replaceWith": "Coronaproutus"
+  },
+  {
+    "name": "confinement",
+    "replaceWith": "confiprout"
+  },
 ];
 /* For copy/paste
   {
