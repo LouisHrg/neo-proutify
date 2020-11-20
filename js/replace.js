@@ -1,5 +1,7 @@
 // vim:set sw=2 ts=2 sts=2 expandtab:
 const replace = [
+
+  /*** Personnalités politiques ou publiques ***/
   {
     "name": "Darmanin",
     "replaceWith": "Darmaprout"
@@ -105,42 +107,6 @@ const replace = [
     "replaceWith": "Sébastien Leproutu"
   },
   {
-    "name": "ministre",
-    "replaceWith": "miniprout"
-  },
-  {
-    "name": "Ministre",
-    "replaceWith": "Miniprout"
-  },
-  {
-    "name": "député",
-    "replaceWith": "déprouté"
-  },
-  {
-    "name": "Député",
-    "replaceWith": "Déprouté"
-  },
-  {
-    "name": "sénateur",
-    "replaceWith": "sénaprout"
-  },
-  {
-    "name": "Sénateur",
-    "replaceWith": "Sénaprout"
-  },
-  {
-    "name": "plan de relance",
-    "replaceWith": "prout de relance"
-  },
-  {
-    "name": "ce que l'on sait",
-    "replaceWith": "ce que l'on proute"
-  },
-  {
-    "name": "couac",
-    "replaceWith": "prout"
-  },
-  {
     "name": "Trump",
     "replaceWith": "Trumpet"
   },
@@ -180,6 +146,46 @@ const replace = [
     "name": "Boris",
     "replaceWith": "Beauprout"
   },
+
+  /*** Vocabulaire politique ***/
+  {
+    "name": "ministre",
+    "replaceWith": "miniprout"
+  },
+  {
+    "name": "Ministre",
+    "replaceWith": "Miniprout"
+  },
+  {
+    "name": "député",
+    "replaceWith": "déprouté"
+  },
+  {
+    "name": "Député",
+    "replaceWith": "Déprouté"
+  },
+  {
+    "name": "sénateur",
+    "replaceWith": "sénaprout"
+  },
+  {
+    "name": "Sénateur",
+    "replaceWith": "Sénaprout"
+  },
+  {
+    "name": "plan de relance",
+    "replaceWith": "prout de relance"
+  },
+  {
+    "name": "ce que l'on sait",
+    "replaceWith": "ce que l'on proute"
+  },
+  {
+    "name": "couac",
+    "replaceWith": "prout"
+  },
+
+  /*** COVID-19 ***/
   {
     "name": "Covid",
     "replaceWith": "Coprout"
@@ -190,7 +196,8 @@ const replace = [
   },
   {
     "name": "confinement",
-    "replaceWith": "confiprout"
+    "replaceWith": "confiprout
+    
   /*** Institutions politiques ***/
   {
     "name": "Conseil d'Etat|Conseil d'État",
