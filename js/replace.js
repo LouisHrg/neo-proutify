@@ -180,6 +180,17 @@ const replace = [
     "name": "Boris",
     "replaceWith": "Beauprout"
   },
+  {
+    "name": "Covid",
+    "replaceWith": "Coprout"
+  },
+  {
+    "name": "Coronavirus",
+    "replaceWith": "Coronaproutus"
+  },
+  {
+    "name": "confinement",
+    "replaceWith": "confiprout"
   /*** Institutions politiques ***/
   {
     "name": "Conseil d'Etat|Conseil d'État",
