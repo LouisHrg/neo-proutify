@@ -113,6 +113,10 @@ const replace = [
     "replaceWith": "Miniprout"
   },
   {
+    "name": "dminiprout",
+    "replaceWith": "dministre"
+  },
+  {
     "name": "député",
     "replaceWith": "déprouté"
   },
