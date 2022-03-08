@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Neo-Proutify",
   "description": "Remplace des nom et des mots par des prouts.",
-  "version": "1.0",
+  "version": "1.5",
   "homepage_url": "https://github.com/louishrg/neo-proutify/",
   "icons": {
       "64": "static/icon.png"

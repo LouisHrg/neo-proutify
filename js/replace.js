@@ -189,6 +189,42 @@ const replace = [
     "replaceWith": "Coprout"
   },
   {
+    "name": "Covid-19",
+    "replaceWith": "Coprout-19"
+  },
+  {
+    "name": "GIEC",
+    "replaceWith": "PROUTEC"
+  },
+  {
+    "name": "Réchauffement climatique",
+    "replaceWith": "Réchauffement proutatique"
+  },
+  {
+    "name": "Woke",
+    "replaceWith": "Proutoke"
+  },
+  {
+    "name": "Croissance",
+    "replaceWith": "Proutance"
+  },
+  {
+    "name": "Décroissance",
+    "replaceWith": "Déproutance"
+  },
+  {
+    "name": "PIB",
+    "replaceWith": "ProutIB"
+  },
+  {
+    "name": "bourse de paris",
+    "replaceWith": "prout de paris"
+  },
+  {
+    "name": "CAC40",
+    "replaceWith": "PROUT40"
+  },
+  {
     "name": "Coronavirus",
     "replaceWith": "Coronaproutus"
   },
@@ -213,7 +249,7 @@ const replace = [
     "replaceWith": "We Digital Prout"
   },
   {
-    "name": "Wizards Technolologies",
+    "name": "Wizards Technologies",
     "replaceWith": "Proutards Proutologies"
   },
   {
@@ -245,11 +281,27 @@ const replace = [
     "replaceWith": "PHProut"
   },
   {
+    "name": "Laravel",
+    "replaceWith": "LaraProut"
+  },
+  {
+    "name": "Taylor Otwell",
+    "replaceWith": "Taylor Proutwell"
+  },
+  {
+    "name": "Angular",
+    "replaceWith": "Proutular"
+  },
+  {
+    "name": "Angular",
+    "replaceWith": "Proutular"
+  },
+  {
     "name": "BitCoin",
     "replaceWith": "ProutCoin"
   },
   {
-    "name": "Cryptomonnaie",
+    "name": "Cryptomonnaie | crypto-monnaie",
     "replaceWith": "Proutomonnaie"
   },
   {
@@ -261,8 +313,56 @@ const replace = [
     "replaceWith": "Proutine"
   },
   {
+    "name": "Poutou",
+    "replaceWith": "Proutou"
+  },
+  {
+    "name": "Linkedin",
+    "replaceWith": "Proutkedin"
+  },
+  {
+    "name": "Deskopolitan",
+    "replaceWith": "Deskopoliprout"
+  },
+  {
+    "name": "Deskopolitan",
+    "replaceWith": "Deskopoliprout"
+  },
+  {
+    "name": "architecture logicielle",
+    "replaceWith": "Architecture Prouticielle"
+  },
+  {
+    "name": "ingénierie du web",
+    "replaceWith": "ingénierie du prout"
+  },
+  {
+    "name": "Wizards",
+    "replaceWith": "Proutzards"
+  },
+  {
+    "name": "Verstappen",
+    "replaceWith": "Proutstappen"
+  },
+  {
+    "name": "Hamilton",
+    "replaceWith": "Proutmilton"
+  },
+  {
+    "name": "Bottas",
+    "replaceWith": "Proutas"
+  },
+  {
+    "name": "Leclerc",
+    "replaceWith": "LeProut"
+  },
+  {
+    "name": "Gasly",
+    "replaceWith": "Gasprout"
+  },
+  {
     "name": "Growth",
-    "replaceWith": "Pwoutos"
+    "replaceWith": "Proutos"
   },
   {
     "name": "Lucas Moisan",
@@ -283,6 +383,18 @@ const replace = [
   {
     "name": "Mana",
     "replaceWith": "Prouta"
+  },
+  {
+    "name": "Bolloré",
+    "replaceWith": "Bolloprout"
+  },
+  {
+    "name": "Formule 1",
+    "replaceWith": "Formule Prout"
+  },
+  {
+    "name": "Xavier Niel",
+    "replaceWith": "Proutier Niel"
   },
 ];
 /* For copy/paste
