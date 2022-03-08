@@ -196,6 +196,94 @@ const replace = [
     "name": "confinement",
     "replaceWith": "confiprout"
   },
+  {
+    "name": "Gael Coat",
+    "replaceWith": "Proutel Proutate"
+  },
+  {
+    "name": "La république en marche",
+    "replaceWith": "La république en prout"
+  },
+  {
+    "name": "Wemanity",
+    "replaceWith": "WemaniProut"
+  },
+  {
+    "name": "WedigitalGarden|We Digital Garden",
+    "replaceWith": "We Digital Prout"
+  },
+  {
+    "name": "Wizards Technolologies",
+    "replaceWith": "Proutards Proutologies"
+  },
+  {
+    "name": "ESGI",
+    "replaceWith": "ProutESGI"
+  },
+  {
+    "name": "ECV Digital",
+    "replaceWith": "ECV Proutal"
+  },
+  {
+    "name": "Gael Coat",
+    "replaceWith": "Gael Proutat"
+  },
+  {
+    "name": "Chouineur",
+    "replaceWith": "Prouteur"
+  },
+  {
+    "name": "Chouineurs",
+    "replaceWith": "Prouteurs"
+  },
+  {
+    "name": "Javascript|Java script",
+    "replaceWith": "ProutaScript"
+  },
+  {
+    "name": "PHP",
+    "replaceWith": "PHProut"
+  },
+  {
+    "name": "BitCoin",
+    "replaceWith": "ProutCoin"
+  },
+  {
+    "name": "Cryptomonnaie",
+    "replaceWith": "Proutomonnaie"
+  },
+  {
+    "name": "NFT",
+    "replaceWith": "NFPet"
+  },
+  {
+    "name": "Putin|Poutine",
+    "replaceWith": "Proutine"
+  },
+  {
+    "name": "Growth",
+    "replaceWith": "Pwoutos"
+  },
+  {
+    "name": "Lucas Moisan",
+    "replaceWith": "Lucas Proutan"
+  },
+  {
+    "name": "Guillaume Oudenot",
+    "replaceWith": "Guillaume Proutenot"
+  },
+  {
+    "name": "Elon Musk|Musk",
+    "replaceWith": "Prouton Musk"
+  },
+  {
+    "name": "Jeff Bezos|Bezos",
+    "replaceWith": "Jeff Proutos"
+  },
+  {
+    "name": "Mana",
+    "replaceWith": "Prouta"
+  },
 ];
 /* For copy/paste
   {
