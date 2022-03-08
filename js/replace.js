@@ -217,12 +217,16 @@ const replace = [
     "replaceWith": "ProutIB"
   },
   {
-    "name": "bourse de paris",
-    "replaceWith": "prout de paris"
+    "name": "la bourse de paris",
+    "replaceWith": "le Prout de Paris"
   },
   {
     "name": "CAC40",
     "replaceWith": "PROUT40"
+  },
+  {
+    "name": "CAC 40",
+    "replaceWith": "PROUT 40"
   },
   {
     "name": "Coronavirus",
@@ -407,7 +411,7 @@ const replace = [
 // Create array of regexps with all above elements
 const rExps = []
 replace.forEach((element) => {
-  rExps.push([new RegExp(element["name"], "g"), element["replaceWith"]])
+  rExps.push([new RegExp(element["name"], "gi"), element["replaceWith"]])
 })
 
 var textNode;
